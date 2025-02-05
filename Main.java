@@ -1,9 +1,15 @@
+/**
+   This program demonstrates a solution to the
+   String Reverser programming challenge.
+*/
+
 public class Main
 {
    public static void main(String[] args)
    {
       String str = "Good Morning Java!";
-      strReverse(str);
+      strReverse(str);   
+      System.out.println("\nEnd.");
    }
 
    /**
